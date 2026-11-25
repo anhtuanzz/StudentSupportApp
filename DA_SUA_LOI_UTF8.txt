@@ -1,7 +1,0 @@
-BẢN SỬA LỖI BUILD: Invalid encoding name "utf8"
-
-Đã sửa các khai báo encoding="utf8" hoặc encoding='utf8' trong XML thành UTF-8 chuẩn.
-Đã kiểm tra parse cú pháp tất cả XML trong bản ZIP và cấu trúc database SQLite.
-Ứng dụng chưa được biên dịch APK trong môi trường này.
-
-Cách mở: Android Studio > File > Open > chọn thư mục StudentSupportProject > Sync > Rebuild Project.
